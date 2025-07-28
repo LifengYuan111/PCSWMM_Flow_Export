@@ -17,7 +17,7 @@ This work demonstrates the use of the **Storm Water Management Model (SWMM)**—
 ## 🛠 Key Components
 
 - **Modeling Tool**: PCSWMM v7.5 using EPA SWMM 5.1.015 engine
-- **Code**: Custom IronPython 2.7 script for exporting time-series spore data from selected conduits (`export_velocity.py`)
+- **Code**: Custom IronPython 2.7 script for exporting time-series spore data from selected conduits (`export_flow.py`)
 - **Calibration**: Washoff coefficients were derived from observed spore concentrations on asphalt, grass, and concrete surfaces
 - **Simulations**:
   - Field experiment release (3 rainfall events)
